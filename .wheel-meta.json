@@ -1,0 +1,22 @@
+{
+  "wheel_id": 441,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-com-151",
+  "project": "retaining-walls-perth-pros-and-cons-5af129dafcd124967523a990c57",
+  "parent_t1_ref": "retainingwallsperthwa.com-004",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth pros and cons",
+  "intended_url": "http://retaining-walls-perth-pros-and-cons-5af129dafcd124967523a990c57.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a8428d76b49e6507",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retaining-walls-perth-retainingwallsperthwa-com-004/",
+      "anchor": "Retaining Walls Perth: What to confirm before quotes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
